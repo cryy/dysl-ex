@@ -1,3 +1,5 @@
-export const stateContainer = {
+const stateContainer = {
     isOn: false
-}
+};
+
+export default stateContainer;

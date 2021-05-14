@@ -1,4 +1,4 @@
-import { stateContainer } from "./state/ephemeral.js";
+import stateContainer from "./state/ephemeral.js";
 
 export function start() {
 
