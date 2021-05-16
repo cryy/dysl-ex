@@ -10,7 +10,8 @@
         "contextMenus",
         "http://*/*",
         "https://*/*",
-        "storage"
+        "storage",
+        "webNavigation"
     ],
     "background": {
         "page": "html/background.html"

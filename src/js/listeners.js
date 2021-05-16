@@ -5,5 +5,5 @@ export function listen() {
     chrome.browserAction.onClicked.addListener((tab) => {
         if (stateContainer.isOn) stop();
         else start();
-    });
+    }); 
 }
