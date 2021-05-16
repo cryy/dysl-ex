@@ -17,7 +17,7 @@ export default function Download() {
             <Button variant="contained" color="primary">
                 Instaliraj za Chrome ili Edge
             </Button>
-            <Typography>*dysl-ex radi sa svim chromium browserima</Typography>
+            <Typography>*dysl-ex radi sa chromium browserima</Typography>
         </Grid>
     );
 }
